@@ -1,4 +1,4 @@
-=== Diceware passwords for WordPress ===
+=== Diceware passwords ===
 Contributors: botzev
 Donate link: https://www.george.botsev.it
 Tags: passwords, diceware, security
