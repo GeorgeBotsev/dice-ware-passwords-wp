@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Diceware passwords for WordPress
+Plugin Name: Diceware passwords
 Description: Use Diceware method for generating passwords in WordPress.
 Version: 1.0
 Author: George Botsev
